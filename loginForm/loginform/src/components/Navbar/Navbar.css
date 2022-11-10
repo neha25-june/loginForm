@@ -1,0 +1,11 @@
+/* .navbar {
+    background-image: url("./Homeimage/sea-7039471_1920.jpg");
+} */
+
+.navbar {
+    background-color: black;
+    padding: 10px;
+}
+.loginicon {
+    color: white;
+}
